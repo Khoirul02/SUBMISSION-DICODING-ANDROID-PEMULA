@@ -27,18 +27,6 @@ object FoodData {
         "Kuliner ini merupakan kuliner khas Semarang yang relatif baru. Sate Kalak berbahan dasar ayam meski tentunya bukan seperti sate ayam biasa. Sate Kalak memiliki rasa rempah yang unik dan bisa menjadi variasi kuliner tersendiri untuk kamu yang sering berkunjung ke Semarang."
     )
 
-//    private val foodImages = intArrayOf(
-//        R.drawable.nasi_goreng_babat,
-//        R.drawable.nasi_ayam,
-//        R.drawable.tahu_gimbal,
-//        R.drawable.burung_belibis,
-//        R.drawable.nasi_pindang,
-//        R.drawable.sate_buntel,
-//        R.drawable.wedang_tahu,
-//        R.drawable.nasi_gandul,
-//        R.drawable.magut_welut,
-//        R.drawable.sate_kalak
-//    )
     private val foodImages = arrayOf(
         "https://sgp1.digitaloceanspaces.com/tz-mag-id/wp-content/uploads/2018/04/020204040000/babat-1024x1024.jpg",
         "https://sgp1.digitaloceanspaces.com/tz-mag-id/wp-content/uploads/2018/04/020204040808/nasi-ayam-2-909x1024.jpg",
