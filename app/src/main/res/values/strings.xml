@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SubmissionAndroidPemula</string>
+    <string name="food_name">Nama Makanan Khas</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="nama_about">Khoirul Huda</string>
+    <string name="nama_email">hudak006@gmail.com</string>
+</resources>
